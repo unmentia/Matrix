@@ -13,7 +13,7 @@ int main(){
         }
     }
 
-    printf("Enter the dimensions of the 2nd matrix:1 ");
+    printf("Enter the dimensions of the 2nd matrix: ");
     int y2, x2;
     scanf("%d %d", &y2, &x2);
 
